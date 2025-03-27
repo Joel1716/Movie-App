@@ -1,7 +1,6 @@
 {
   "name": "movie-app",
   "homepage": "https://joel1716.github.io/Movie-App/",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
